@@ -1,0 +1,2 @@
+Welcome to ABC file .
+We're copying contents from ABC.txt to Demo.txt.
